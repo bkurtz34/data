@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to SwampStats
 
 You can use the [editor on GitHub](https://github.com/bkurtz34/swampstats.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
